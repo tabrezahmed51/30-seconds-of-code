@@ -8,14 +8,14 @@
   "type": "module",
   "devDependencies": {
     "@shikijs/colorized-brackets": "^3.2.2",
-    "astro": "^6.1.10",
+    "astro": "^7.4.7",
     "eslint": "^9.28.0",
     "eslint-config-prettier": "^10.1.2",
     "front-matter": "^4.0.2",
     "fs-extra": "^11.3.0",
-    "glob": "^12.0.0",
+    "glob": "^14.0.6",
     "hast-util-to-string": "^3.0.0",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "prettier": "^3.5.3",
     "prettier-plugin-astro": "^0.14.1",
     "prismjs": "^1.30.0",
@@ -25,12 +25,12 @@
     "remark-parse": "^11.0.0",
     "remark-rehype": "^11.1.2",
     "sass": "^1.89.2",
-    "sharp": "^0.34.2",
+    "sharp": "^0.35.5",
     "shiki": "^3.6.0",
     "unified": "^11.0.4",
     "unist-util-visit": "^5.0.0",
     "unist-util-visit-parents": "^6.0.1",
-    "vitest": "^3.2.6"
+    "vitest": "^4.1.11"
   },
   "imports": {
     "#src/*": [
